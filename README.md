@@ -20,4 +20,4 @@ format:
 `./bin/apple-token-generator music PATH_TO_PRIVATE_KEY KEY_ID TEAM_ID`
 
 example:
-`./bin/apple-token-generator.rb music ./AuthKey.p8 78938VHWKM 4R3M6JUFMD`
+`./bin/apple-token-generator music ./AuthKey.p8 78938VHWKM 4R3M6JUFMD`
